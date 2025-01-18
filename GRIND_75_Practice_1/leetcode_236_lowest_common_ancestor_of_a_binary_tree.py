@@ -5,6 +5,7 @@ class TreeNode(object):
         self.left = None
         self.right = None
 
+
 class Solution(object):
     def lowestCommonAncestor(self, root, p, q):
         """
@@ -13,7 +14,7 @@ class Solution(object):
         :type q: TreeNode
         :rtype: TreeNode
         """
-        if not root or root==p or root==q:
+        if not root or root == p or root == q:
             return root
 
         left = self.lowestCommonAncestor(root.left, p, q)
@@ -22,7 +23,10 @@ class Solution(object):
         if left and right:
             return root
 
+        # This following line would propagate a matched node even None
+        # towards the root node.
         return left if left else right
+
 
 n3 = TreeNode(3)
 n5 = TreeNode(5)
@@ -44,4 +48,4 @@ n1.left = n0
 n1.right = n8
 
 s = Solution()
-print(s.lowestCommonAncestor(n3, n7, n4))
+print(s.lowestCommonAncestor(n3, n4, n0))
