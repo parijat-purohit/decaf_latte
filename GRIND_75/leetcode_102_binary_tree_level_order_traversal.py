@@ -86,8 +86,10 @@ t1 = TreeNode(1)
 t2 = TreeNode(2)
 t3 = TreeNode(3)
 t4 = TreeNode(4)
+t5 = TreeNode(5)
 t1.left = t2
 t1.right = t3
 t2.left = t4
+t2.right = t5
 s = Solution()
 print(s.levelOrder(t1))

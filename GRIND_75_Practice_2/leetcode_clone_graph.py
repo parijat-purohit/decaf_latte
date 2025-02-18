@@ -17,34 +17,32 @@ class Solution(object):
         if not node:
             return None
 
-        new_graph_store = {}
-        new_graph_store[node] = Node(node.val)
-        # we would always store the nodes from the origin graph into
-        # the queue and they are already copied into the new store.
+        mapped_graph = {}
+        mapped_graph[node] = Node(node.val)
         queue = deque([node])
 
         while queue:
-            c_node = queue.popleft()
+            # This current node is always existing in the new map.
+            current_node = queue.popleft()
 
-            for neighbor in c_node.neighbors:
-                if neighbor not in new_graph_store:
-                    new_graph_store[neighbor] = Node(neighbor.val)
+            for neighbor in current_node.neighbors:
+                if neighbor not in mapped_graph:
+                    mapped_graph[neighbor] = Node(neighbor.val)
                     queue.append(neighbor)
-                new_graph_store[c_node].neighbors.append(
-                    new_graph_store[neighbor])
+                mapped_graph[current_node].neighbors.append(
+                    mapped_graph[neighbor])
 
-        return new_graph_store[node]
+        return mapped_graph[node]
 
 
 n1 = Node(1)
 n2 = Node(2)
 n3 = Node(3)
 n4 = Node(4)
-
 n1.neighbors = [n2, n4]
 n2.neighbors = [n1, n3]
 n3.neighbors = [n2, n4]
 n4.neighbors = [n1, n3]
 
 s = Solution()
-s.cloneGraph(n1)
+print(s.cloneGraph(n1))
