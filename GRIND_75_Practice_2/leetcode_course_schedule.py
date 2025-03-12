@@ -20,7 +20,6 @@ class Solution(object):
 
         while (queue):
             current_course = queue.popleft()
-            print(current_course)
             courses_taken += 1
             for course in dependency_map[current_course]:
                 degrees[course] -= 1
