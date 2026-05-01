@@ -1,0 +1,1492 @@
+{
+    "places": [
+        {
+            "id": 675834,
+            "name": "Geraldine's Counter",
+            "placeId": "region_seattle_675834_67700",
+            "lat": 47.513096,
+            "lng": -122.290623,
+            "address": "4872 Rainier Ave S, Seattle, WA 98118",
+            "streetNumber": null,
+            "streetName": null,
+            "route": null,
+            "city": "Seattle",
+            "locality": null,
+            "sublocality": null,
+            "state": "Washington",
+            "zipCode": "98118",
+            "county": null,
+            "neighborhood": null,
+            "typeId": null,
+            "primaryType": "restaurant",
+            "typeLabel": "Restaurant",
+            "typeCategory": "Food and drink",
+            "icon": "Restaurant",
+            "color": "#FF9E67",
+            "locationCategory": null,
+            "phone": null,
+            "website": null,
+            "googleMapsUrl": null,
+            "description": null,
+            "businessStatus": "OPERATIONAL",
+            "rating": 4,
+            "reviewCount": 0,
+            "hasOpeningHours": true,
+            "hours": [
+                {
+                    "dayOfWeek": 0,
+                    "openTime": "07:00",
+                    "closeTime": "20:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 1,
+                    "openTime": "08:00",
+                    "closeTime": "21:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 2,
+                    "openTime": "07:00",
+                    "closeTime": "20:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 3,
+                    "openTime": "08:00",
+                    "closeTime": "22:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 4,
+                    "openTime": "07:00",
+                    "closeTime": "23:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 5,
+                    "openTime": "08:00",
+                    "closeTime": "20:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 6,
+                    "openTime": "07:00",
+                    "closeTime": "21:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                }
+            ],
+            "is24Hours": false,
+            "primaryImageUrl": "/images/locations/restaurant-pool-main-0.jpg",
+            "allImages": null,
+            "totalImages": 5,
+            "dineIn": false,
+            "takeaway": false,
+            "delivery": false,
+            "driveThrough": false,
+            "curbsidePickup": false,
+            "reservationsAccepted": false,
+            "onlineBookingUrl": null,
+            "createdAt": null,
+            "updatedAt": null,
+            "priceRange": null,
+            "minPrice": null,
+            "maxPrice": null,
+            "avgPrice": null,
+            "menuItemCount": 0,
+            "text": {
+                "text": "4872 Rainier Ave S, Seattle, WA 98118"
+            },
+            "structuredFormat": {
+                "mainText": {
+                    "text": "Geraldine's Counter"
+                },
+                "secondaryText": {
+                    "text": "Seattle, Washington"
+                }
+            },
+            "distanceMeters": 351
+        },
+        {
+            "id": 674339,
+            "name": "JuneBaby",
+            "placeId": "region_seattle_674339_82908",
+            "lat": 47.516479,
+            "lng": -122.286873,
+            "address": "2122 E Madison St, Seattle, WA 98112",
+            "streetNumber": null,
+            "streetName": null,
+            "route": null,
+            "city": "Seattle",
+            "locality": null,
+            "sublocality": null,
+            "state": "Washington",
+            "zipCode": "98112",
+            "county": null,
+            "neighborhood": null,
+            "typeId": null,
+            "primaryType": "restaurant",
+            "typeLabel": "Restaurant",
+            "typeCategory": "Food and drink",
+            "icon": "Restaurant",
+            "color": "#FF9E67",
+            "locationCategory": null,
+            "phone": null,
+            "website": null,
+            "googleMapsUrl": null,
+            "description": null,
+            "businessStatus": "OPERATIONAL",
+            "rating": 3.6,
+            "reviewCount": 0,
+            "hasOpeningHours": true,
+            "hours": [
+                {
+                    "dayOfWeek": 0,
+                    "openTime": "07:00",
+                    "closeTime": "22:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 1,
+                    "openTime": "06:00",
+                    "closeTime": "23:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 2,
+                    "openTime": "07:00",
+                    "closeTime": "22:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 3,
+                    "openTime": "07:00",
+                    "closeTime": "23:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 4,
+                    "openTime": "06:00",
+                    "closeTime": "20:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 5,
+                    "openTime": "06:00",
+                    "closeTime": "23:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 6,
+                    "openTime": "07:00",
+                    "closeTime": "21:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                }
+            ],
+            "is24Hours": false,
+            "primaryImageUrl": "/images/locations/restaurant-pool-main-0.jpg",
+            "allImages": null,
+            "totalImages": 5,
+            "dineIn": false,
+            "takeaway": false,
+            "delivery": false,
+            "driveThrough": false,
+            "curbsidePickup": false,
+            "reservationsAccepted": false,
+            "onlineBookingUrl": null,
+            "createdAt": null,
+            "updatedAt": null,
+            "priceRange": null,
+            "minPrice": null,
+            "maxPrice": null,
+            "avgPrice": null,
+            "menuItemCount": 0,
+            "text": {
+                "text": "2122 E Madison St, Seattle, WA 98112"
+            },
+            "structuredFormat": {
+                "mainText": {
+                    "text": "JuneBaby"
+                },
+                "secondaryText": {
+                    "text": "Seattle, Washington"
+                }
+            },
+            "distanceMeters": 733
+        },
+        {
+            "id": 674677,
+            "name": "Geraldine's Soul Food",
+            "placeId": "region_seattle_674677_51559",
+            "lat": 47.518116,
+            "lng": -122.304966,
+            "address": "100 23rd Ave S, Seattle, WA 98144",
+            "streetNumber": null,
+            "streetName": null,
+            "route": null,
+            "city": "Seattle",
+            "locality": null,
+            "sublocality": null,
+            "state": "Washington",
+            "zipCode": "98144",
+            "county": null,
+            "neighborhood": null,
+            "typeId": null,
+            "primaryType": "restaurant",
+            "typeLabel": "Restaurant",
+            "typeCategory": "Food and drink",
+            "icon": "Restaurant",
+            "color": "#FF9E67",
+            "locationCategory": null,
+            "phone": null,
+            "website": null,
+            "googleMapsUrl": null,
+            "description": null,
+            "businessStatus": "OPERATIONAL",
+            "rating": 3.5,
+            "reviewCount": 0,
+            "hasOpeningHours": true,
+            "hours": [
+                {
+                    "dayOfWeek": 0,
+                    "openTime": "09:00",
+                    "closeTime": "22:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 1,
+                    "openTime": "06:00",
+                    "closeTime": "22:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 2,
+                    "openTime": "08:00",
+                    "closeTime": "23:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 3,
+                    "openTime": "07:00",
+                    "closeTime": "21:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 4,
+                    "openTime": "07:00",
+                    "closeTime": "21:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 5,
+                    "openTime": "08:00",
+                    "closeTime": "20:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 6,
+                    "openTime": "08:00",
+                    "closeTime": "22:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                }
+            ],
+            "is24Hours": false,
+            "primaryImageUrl": "/images/locations/restaurant-pool-main-0.jpg",
+            "allImages": null,
+            "totalImages": 3,
+            "dineIn": false,
+            "takeaway": false,
+            "delivery": false,
+            "driveThrough": false,
+            "curbsidePickup": false,
+            "reservationsAccepted": false,
+            "onlineBookingUrl": null,
+            "createdAt": null,
+            "updatedAt": null,
+            "priceRange": null,
+            "minPrice": null,
+            "maxPrice": null,
+            "avgPrice": null,
+            "menuItemCount": 0,
+            "text": {
+                "text": "100 23rd Ave S, Seattle, WA 98144"
+            },
+            "structuredFormat": {
+                "mainText": {
+                    "text": "Geraldine's Soul Food"
+                },
+                "secondaryText": {
+                    "text": "Seattle, Washington"
+                }
+            },
+            "distanceMeters": 914
+        },
+        {
+            "id": 674817,
+            "name": "Emerald Thai Cuisine",
+            "placeId": "region_seattle_674817_10597",
+            "lat": 47.520883,
+            "lng": -122.288911,
+            "address": "3300 Rainier Ave S, Seattle, WA 98144",
+            "streetNumber": null,
+            "streetName": null,
+            "route": null,
+            "city": "Seattle",
+            "locality": null,
+            "sublocality": null,
+            "state": "Washington",
+            "zipCode": "98144",
+            "county": null,
+            "neighborhood": null,
+            "typeId": null,
+            "primaryType": "restaurant",
+            "typeLabel": "Restaurant",
+            "typeCategory": "Food and drink",
+            "icon": "Restaurant",
+            "color": "#FF9E67",
+            "locationCategory": null,
+            "phone": null,
+            "website": null,
+            "googleMapsUrl": null,
+            "description": null,
+            "businessStatus": "OPERATIONAL",
+            "rating": 4.5,
+            "reviewCount": 0,
+            "hasOpeningHours": true,
+            "hours": [
+                {
+                    "dayOfWeek": 0,
+                    "openTime": null,
+                    "closeTime": null,
+                    "isClosed": true,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 1,
+                    "openTime": "07:00",
+                    "closeTime": "22:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 2,
+                    "openTime": "06:00",
+                    "closeTime": "22:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 3,
+                    "openTime": "07:00",
+                    "closeTime": "22:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 4,
+                    "openTime": "08:00",
+                    "closeTime": "23:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 5,
+                    "openTime": "06:00",
+                    "closeTime": "23:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 6,
+                    "openTime": "09:00",
+                    "closeTime": "20:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                }
+            ],
+            "is24Hours": false,
+            "primaryImageUrl": "/images/locations/restaurant-pool-main-0.jpg",
+            "allImages": null,
+            "totalImages": 1,
+            "dineIn": false,
+            "takeaway": false,
+            "delivery": false,
+            "driveThrough": false,
+            "curbsidePickup": false,
+            "reservationsAccepted": false,
+            "onlineBookingUrl": null,
+            "createdAt": null,
+            "updatedAt": null,
+            "priceRange": null,
+            "minPrice": null,
+            "maxPrice": null,
+            "avgPrice": null,
+            "menuItemCount": 0,
+            "text": {
+                "text": "3300 Rainier Ave S, Seattle, WA 98144"
+            },
+            "structuredFormat": {
+                "mainText": {
+                    "text": "Emerald Thai Cuisine"
+                },
+                "secondaryText": {
+                    "text": "Seattle, Washington"
+                }
+            },
+            "distanceMeters": 986
+        },
+        {
+            "id": 675205,
+            "name": "La Cocina Oaxaqueña",
+            "placeId": "region_seattle_675205_89050",
+            "lat": 47.51817,
+            "lng": -122.309447,
+            "address": "2524 Beacon Ave S, Seattle, WA 98144",
+            "streetNumber": null,
+            "streetName": null,
+            "route": null,
+            "city": "Seattle",
+            "locality": null,
+            "sublocality": null,
+            "state": "Washington",
+            "zipCode": "98144",
+            "county": null,
+            "neighborhood": null,
+            "typeId": null,
+            "primaryType": "restaurant",
+            "typeLabel": "Restaurant",
+            "typeCategory": "Food and drink",
+            "icon": "Restaurant",
+            "color": "#FF9E67",
+            "locationCategory": null,
+            "phone": null,
+            "website": null,
+            "googleMapsUrl": null,
+            "description": null,
+            "businessStatus": "OPERATIONAL",
+            "rating": 4,
+            "reviewCount": 0,
+            "hasOpeningHours": true,
+            "hours": [
+                {
+                    "dayOfWeek": 0,
+                    "openTime": null,
+                    "closeTime": null,
+                    "isClosed": true,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 1,
+                    "openTime": "06:00",
+                    "closeTime": "22:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 2,
+                    "openTime": "07:00",
+                    "closeTime": "20:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 3,
+                    "openTime": "08:00",
+                    "closeTime": "22:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 4,
+                    "openTime": "08:00",
+                    "closeTime": "20:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 5,
+                    "openTime": "07:00",
+                    "closeTime": "22:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 6,
+                    "openTime": "09:00",
+                    "closeTime": "19:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                }
+            ],
+            "is24Hours": false,
+            "primaryImageUrl": "/images/locations/restaurant-pool-main-0.jpg",
+            "allImages": null,
+            "totalImages": 5,
+            "dineIn": false,
+            "takeaway": false,
+            "delivery": false,
+            "driveThrough": false,
+            "curbsidePickup": false,
+            "reservationsAccepted": false,
+            "onlineBookingUrl": null,
+            "createdAt": null,
+            "updatedAt": null,
+            "priceRange": null,
+            "minPrice": null,
+            "maxPrice": null,
+            "avgPrice": null,
+            "menuItemCount": 0,
+            "text": {
+                "text": "2524 Beacon Ave S, Seattle, WA 98144"
+            },
+            "structuredFormat": {
+                "mainText": {
+                    "text": "La Cocina Oaxaqueña"
+                },
+                "secondaryText": {
+                    "text": "Seattle, Washington"
+                }
+            },
+            "distanceMeters": 1202
+        },
+        {
+            "id": 674398,
+            "name": "The Salty Siren Seafood",
+            "placeId": "region_seattle_674398_78201",
+            "lat": 47.504467,
+            "lng": -122.306086,
+            "address": "4865 Rainier Ave S, Seattle, WA 98118",
+            "streetNumber": null,
+            "streetName": null,
+            "route": null,
+            "city": "Seattle",
+            "locality": null,
+            "sublocality": null,
+            "state": "Washington",
+            "zipCode": "98118",
+            "county": null,
+            "neighborhood": null,
+            "typeId": null,
+            "primaryType": "restaurant",
+            "typeLabel": "Restaurant",
+            "typeCategory": "Food and drink",
+            "icon": "Restaurant",
+            "color": "#FF9E67",
+            "locationCategory": null,
+            "phone": null,
+            "website": null,
+            "googleMapsUrl": null,
+            "description": null,
+            "businessStatus": "OPERATIONAL",
+            "rating": 4,
+            "reviewCount": 0,
+            "hasOpeningHours": true,
+            "hours": [
+                {
+                    "dayOfWeek": 0,
+                    "openTime": "00:00",
+                    "closeTime": "23:59",
+                    "isClosed": false,
+                    "is24Hours": true
+                },
+                {
+                    "dayOfWeek": 1,
+                    "openTime": "00:00",
+                    "closeTime": "23:59",
+                    "isClosed": false,
+                    "is24Hours": true
+                },
+                {
+                    "dayOfWeek": 2,
+                    "openTime": "00:00",
+                    "closeTime": "23:59",
+                    "isClosed": false,
+                    "is24Hours": true
+                },
+                {
+                    "dayOfWeek": 3,
+                    "openTime": "00:00",
+                    "closeTime": "23:59",
+                    "isClosed": false,
+                    "is24Hours": true
+                },
+                {
+                    "dayOfWeek": 4,
+                    "openTime": "00:00",
+                    "closeTime": "23:59",
+                    "isClosed": false,
+                    "is24Hours": true
+                },
+                {
+                    "dayOfWeek": 5,
+                    "openTime": "00:00",
+                    "closeTime": "23:59",
+                    "isClosed": false,
+                    "is24Hours": true
+                },
+                {
+                    "dayOfWeek": 6,
+                    "openTime": "00:00",
+                    "closeTime": "23:59",
+                    "isClosed": false,
+                    "is24Hours": true
+                }
+            ],
+            "is24Hours": true,
+            "primaryImageUrl": "/images/locations/restaurant-pool-main-0.jpg",
+            "allImages": null,
+            "totalImages": 5,
+            "dineIn": false,
+            "takeaway": false,
+            "delivery": false,
+            "driveThrough": false,
+            "curbsidePickup": false,
+            "reservationsAccepted": false,
+            "onlineBookingUrl": null,
+            "createdAt": null,
+            "updatedAt": null,
+            "priceRange": null,
+            "minPrice": null,
+            "maxPrice": null,
+            "avgPrice": null,
+            "menuItemCount": 0,
+            "text": {
+                "text": "4865 Rainier Ave S, Seattle, WA 98118"
+            },
+            "structuredFormat": {
+                "mainText": {
+                    "text": "The Salty Siren Seafood"
+                },
+                "secondaryText": {
+                    "text": "Seattle, Washington"
+                }
+            },
+            "distanceMeters": 1259
+        },
+        {
+            "id": 674460,
+            "name": "Terra Plata Bistro",
+            "placeId": "region_seattle_674460_48279",
+            "lat": 47.52499,
+            "lng": -122.292569,
+            "address": "1501 E Madison St, Seattle, WA 98122",
+            "streetNumber": null,
+            "streetName": null,
+            "route": null,
+            "city": "Seattle",
+            "locality": null,
+            "sublocality": null,
+            "state": "Washington",
+            "zipCode": "98122",
+            "county": null,
+            "neighborhood": null,
+            "typeId": null,
+            "primaryType": "restaurant",
+            "typeLabel": "Restaurant",
+            "typeCategory": "Food and drink",
+            "icon": "Restaurant",
+            "color": "#FF9E67",
+            "locationCategory": null,
+            "phone": null,
+            "website": null,
+            "googleMapsUrl": null,
+            "description": null,
+            "businessStatus": "OPERATIONAL",
+            "rating": 4,
+            "reviewCount": 0,
+            "hasOpeningHours": true,
+            "hours": [
+                {
+                    "dayOfWeek": 0,
+                    "openTime": "07:00",
+                    "closeTime": "21:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 1,
+                    "openTime": "06:00",
+                    "closeTime": "23:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 2,
+                    "openTime": "08:00",
+                    "closeTime": "20:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 3,
+                    "openTime": "08:00",
+                    "closeTime": "22:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 4,
+                    "openTime": "07:00",
+                    "closeTime": "22:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 5,
+                    "openTime": "07:00",
+                    "closeTime": "21:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 6,
+                    "openTime": "07:00",
+                    "closeTime": "20:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                }
+            ],
+            "is24Hours": false,
+            "primaryImageUrl": "/images/locations/restaurant-pool-main-0.jpg",
+            "allImages": null,
+            "totalImages": 3,
+            "dineIn": false,
+            "takeaway": false,
+            "delivery": false,
+            "driveThrough": false,
+            "curbsidePickup": false,
+            "reservationsAccepted": false,
+            "onlineBookingUrl": null,
+            "createdAt": null,
+            "updatedAt": null,
+            "priceRange": null,
+            "minPrice": null,
+            "maxPrice": null,
+            "avgPrice": null,
+            "menuItemCount": 0,
+            "text": {
+                "text": "1501 E Madison St, Seattle, WA 98122"
+            },
+            "structuredFormat": {
+                "mainText": {
+                    "text": "Terra Plata Bistro"
+                },
+                "secondaryText": {
+                    "text": "Seattle, Washington"
+                }
+            },
+            "distanceMeters": 1334
+        },
+        {
+            "id": 674795,
+            "name": "The Salty Siren Seafood Grill",
+            "placeId": "region_seattle_674795_51914",
+            "lat": 47.526597,
+            "lng": -122.303117,
+            "address": "3400 Rainier Ave S, Seattle, WA 98144",
+            "streetNumber": null,
+            "streetName": null,
+            "route": null,
+            "city": "Seattle",
+            "locality": null,
+            "sublocality": null,
+            "state": "Washington",
+            "zipCode": "98144",
+            "county": null,
+            "neighborhood": null,
+            "typeId": null,
+            "primaryType": "restaurant",
+            "typeLabel": "Restaurant",
+            "typeCategory": "Food and drink",
+            "icon": "Restaurant",
+            "color": "#FF9E67",
+            "locationCategory": null,
+            "phone": null,
+            "website": null,
+            "googleMapsUrl": null,
+            "description": null,
+            "businessStatus": "OPERATIONAL",
+            "rating": 3.6,
+            "reviewCount": 0,
+            "hasOpeningHours": true,
+            "hours": [
+                {
+                    "dayOfWeek": 0,
+                    "openTime": "09:00",
+                    "closeTime": "21:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 1,
+                    "openTime": "08:00",
+                    "closeTime": "22:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 2,
+                    "openTime": "07:00",
+                    "closeTime": "21:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 3,
+                    "openTime": "08:00",
+                    "closeTime": "23:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 4,
+                    "openTime": "08:00",
+                    "closeTime": "23:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 5,
+                    "openTime": "07:00",
+                    "closeTime": "20:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 6,
+                    "openTime": "09:00",
+                    "closeTime": "21:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                }
+            ],
+            "is24Hours": false,
+            "primaryImageUrl": "/images/locations/restaurant-pool-main-0.jpg",
+            "allImages": null,
+            "totalImages": 5,
+            "dineIn": false,
+            "takeaway": false,
+            "delivery": false,
+            "driveThrough": false,
+            "curbsidePickup": false,
+            "reservationsAccepted": false,
+            "onlineBookingUrl": null,
+            "createdAt": null,
+            "updatedAt": null,
+            "priceRange": null,
+            "minPrice": null,
+            "maxPrice": null,
+            "avgPrice": null,
+            "menuItemCount": 0,
+            "text": {
+                "text": "3400 Rainier Ave S, Seattle, WA 98144"
+            },
+            "structuredFormat": {
+                "mainText": {
+                    "text": "The Salty Siren Seafood Grill"
+                },
+                "secondaryText": {
+                    "text": "Seattle, Washington"
+                }
+            },
+            "distanceMeters": 1608
+        },
+        {
+            "id": 674655,
+            "name": "The Salty Siren Seafood Grill",
+            "placeId": "region_seattle_674655_56606",
+            "lat": 47.527297,
+            "lng": -122.304431,
+            "address": "2700 Alki Ave SW, Seattle, WA 98116",
+            "streetNumber": null,
+            "streetName": null,
+            "route": null,
+            "city": "Seattle",
+            "locality": null,
+            "sublocality": null,
+            "state": "Washington",
+            "zipCode": "98116",
+            "county": null,
+            "neighborhood": null,
+            "typeId": null,
+            "primaryType": "restaurant",
+            "typeLabel": "Restaurant",
+            "typeCategory": "Food and drink",
+            "icon": "Restaurant",
+            "color": "#FF9E67",
+            "locationCategory": null,
+            "phone": null,
+            "website": null,
+            "googleMapsUrl": null,
+            "description": null,
+            "businessStatus": "OPERATIONAL",
+            "rating": 3.6,
+            "reviewCount": 0,
+            "hasOpeningHours": true,
+            "hours": [
+                {
+                    "dayOfWeek": 0,
+                    "openTime": "08:00",
+                    "closeTime": "22:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 1,
+                    "openTime": "07:00",
+                    "closeTime": "22:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 2,
+                    "openTime": "08:00",
+                    "closeTime": "20:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 3,
+                    "openTime": "08:00",
+                    "closeTime": "23:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 4,
+                    "openTime": "08:00",
+                    "closeTime": "20:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 5,
+                    "openTime": "08:00",
+                    "closeTime": "22:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 6,
+                    "openTime": "07:00",
+                    "closeTime": "20:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                }
+            ],
+            "is24Hours": false,
+            "primaryImageUrl": "/images/locations/restaurant-pool-main-0.jpg",
+            "allImages": null,
+            "totalImages": 4,
+            "dineIn": false,
+            "takeaway": false,
+            "delivery": false,
+            "driveThrough": false,
+            "curbsidePickup": false,
+            "reservationsAccepted": false,
+            "onlineBookingUrl": null,
+            "createdAt": null,
+            "updatedAt": null,
+            "priceRange": null,
+            "minPrice": null,
+            "maxPrice": null,
+            "avgPrice": null,
+            "menuItemCount": 0,
+            "text": {
+                "text": "2700 Alki Ave SW, Seattle, WA 98116"
+            },
+            "structuredFormat": {
+                "mainText": {
+                    "text": "The Salty Siren Seafood Grill"
+                },
+                "secondaryText": {
+                    "text": "Seattle, Washington"
+                }
+            },
+            "distanceMeters": 1718
+        },
+        {
+            "id": 674652,
+            "name": "Tacos Chukis",
+            "placeId": "region_seattle_674652_23071",
+            "lat": 47.513461,
+            "lng": -122.319814,
+            "address": "219 Broadway E, Seattle, WA 98102",
+            "streetNumber": null,
+            "streetName": null,
+            "route": null,
+            "city": "Seattle",
+            "locality": null,
+            "sublocality": null,
+            "state": "Washington",
+            "zipCode": "98102",
+            "county": null,
+            "neighborhood": null,
+            "typeId": null,
+            "primaryType": "restaurant",
+            "typeLabel": "Restaurant",
+            "typeCategory": "Food and drink",
+            "icon": "Restaurant",
+            "color": "#FF9E67",
+            "locationCategory": null,
+            "phone": null,
+            "website": null,
+            "googleMapsUrl": null,
+            "description": null,
+            "businessStatus": "OPERATIONAL",
+            "rating": 5,
+            "reviewCount": 0,
+            "hasOpeningHours": true,
+            "hours": [
+                {
+                    "dayOfWeek": 0,
+                    "openTime": null,
+                    "closeTime": null,
+                    "isClosed": true,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 1,
+                    "openTime": "06:00",
+                    "closeTime": "22:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 2,
+                    "openTime": "08:00",
+                    "closeTime": "21:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 3,
+                    "openTime": "08:00",
+                    "closeTime": "20:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 4,
+                    "openTime": "07:00",
+                    "closeTime": "22:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 5,
+                    "openTime": "06:00",
+                    "closeTime": "22:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 6,
+                    "openTime": "08:00",
+                    "closeTime": "21:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                }
+            ],
+            "is24Hours": false,
+            "primaryImageUrl": "/images/locations/restaurant-pool-main-0.jpg",
+            "allImages": null,
+            "totalImages": 5,
+            "dineIn": false,
+            "takeaway": false,
+            "delivery": false,
+            "driveThrough": false,
+            "curbsidePickup": false,
+            "reservationsAccepted": false,
+            "onlineBookingUrl": null,
+            "createdAt": null,
+            "updatedAt": null,
+            "priceRange": null,
+            "minPrice": null,
+            "maxPrice": null,
+            "avgPrice": null,
+            "menuItemCount": 0,
+            "text": {
+                "text": "219 Broadway E, Seattle, WA 98102"
+            },
+            "structuredFormat": {
+                "mainText": {
+                    "text": "Tacos Chukis"
+                },
+                "secondaryText": {
+                    "text": "Seattle, Washington"
+                }
+            },
+            "distanceMeters": 1842
+        },
+        {
+            "id": 674849,
+            "name": "Geraldine's Counter",
+            "placeId": "region_seattle_674849_38557",
+            "lat": 47.527311,
+            "lng": -122.309357,
+            "address": "4872 Rainier Ave S, Seattle, WA 98118",
+            "streetNumber": null,
+            "streetName": null,
+            "route": null,
+            "city": "Seattle",
+            "locality": null,
+            "sublocality": null,
+            "state": "Washington",
+            "zipCode": "98118",
+            "county": null,
+            "neighborhood": null,
+            "typeId": null,
+            "primaryType": "restaurant",
+            "typeLabel": "Restaurant",
+            "typeCategory": "Food and drink",
+            "icon": "Restaurant",
+            "color": "#FF9E67",
+            "locationCategory": null,
+            "phone": null,
+            "website": null,
+            "googleMapsUrl": null,
+            "description": null,
+            "businessStatus": "OPERATIONAL",
+            "rating": 5,
+            "reviewCount": 0,
+            "hasOpeningHours": true,
+            "hours": [
+                {
+                    "dayOfWeek": 0,
+                    "openTime": null,
+                    "closeTime": null,
+                    "isClosed": true,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 1,
+                    "openTime": "06:00",
+                    "closeTime": "22:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 2,
+                    "openTime": "07:00",
+                    "closeTime": "22:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 3,
+                    "openTime": "08:00",
+                    "closeTime": "22:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 4,
+                    "openTime": "07:00",
+                    "closeTime": "21:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 5,
+                    "openTime": "07:00",
+                    "closeTime": "21:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 6,
+                    "openTime": "08:00",
+                    "closeTime": "20:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                }
+            ],
+            "is24Hours": false,
+            "primaryImageUrl": "/images/locations/restaurant-pool-main-0.jpg",
+            "allImages": null,
+            "totalImages": 2,
+            "dineIn": false,
+            "takeaway": false,
+            "delivery": false,
+            "driveThrough": false,
+            "curbsidePickup": false,
+            "reservationsAccepted": false,
+            "onlineBookingUrl": null,
+            "createdAt": null,
+            "updatedAt": null,
+            "priceRange": null,
+            "minPrice": null,
+            "maxPrice": null,
+            "avgPrice": null,
+            "menuItemCount": 0,
+            "text": {
+                "text": "4872 Rainier Ave S, Seattle, WA 98118"
+            },
+            "structuredFormat": {
+                "mainText": {
+                    "text": "Geraldine's Counter"
+                },
+                "secondaryText": {
+                    "text": "Seattle, Washington"
+                }
+            },
+            "distanceMeters": 1898
+        },
+        {
+            "id": 674837,
+            "name": "The Salty Siren Seafood Grill",
+            "placeId": "region_seattle_674837_76246",
+            "lat": 47.509796,
+            "lng": -122.320429,
+            "address": "4869 Rainier Ave S, Seattle, WA 98118",
+            "streetNumber": null,
+            "streetName": null,
+            "route": null,
+            "city": "Seattle",
+            "locality": null,
+            "sublocality": null,
+            "state": "Washington",
+            "zipCode": "98118",
+            "county": null,
+            "neighborhood": null,
+            "typeId": null,
+            "primaryType": "restaurant",
+            "typeLabel": "Restaurant",
+            "typeCategory": "Food and drink",
+            "icon": "Restaurant",
+            "color": "#FF9E67",
+            "locationCategory": null,
+            "phone": null,
+            "website": null,
+            "googleMapsUrl": null,
+            "description": null,
+            "businessStatus": "OPERATIONAL",
+            "rating": 5,
+            "reviewCount": 0,
+            "hasOpeningHours": true,
+            "hours": [
+                {
+                    "dayOfWeek": 0,
+                    "openTime": null,
+                    "closeTime": null,
+                    "isClosed": true,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 1,
+                    "openTime": "06:00",
+                    "closeTime": "20:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 2,
+                    "openTime": "07:00",
+                    "closeTime": "21:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 3,
+                    "openTime": "08:00",
+                    "closeTime": "23:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 4,
+                    "openTime": "07:00",
+                    "closeTime": "20:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 5,
+                    "openTime": "06:00",
+                    "closeTime": "22:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 6,
+                    "openTime": "09:00",
+                    "closeTime": "19:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                }
+            ],
+            "is24Hours": false,
+            "primaryImageUrl": "/images/locations/restaurant-pool-main-0.jpg",
+            "allImages": null,
+            "totalImages": 4,
+            "dineIn": false,
+            "takeaway": false,
+            "delivery": false,
+            "driveThrough": false,
+            "curbsidePickup": false,
+            "reservationsAccepted": false,
+            "onlineBookingUrl": null,
+            "createdAt": null,
+            "updatedAt": null,
+            "priceRange": null,
+            "minPrice": null,
+            "maxPrice": null,
+            "avgPrice": null,
+            "menuItemCount": 0,
+            "text": {
+                "text": "4869 Rainier Ave S, Seattle, WA 98118"
+            },
+            "structuredFormat": {
+                "mainText": {
+                    "text": "The Salty Siren Seafood Grill"
+                },
+                "secondaryText": {
+                    "text": "Seattle, Washington"
+                }
+            },
+            "distanceMeters": 1924
+        },
+        {
+            "id": 675606,
+            "name": "Geraldine's Counter",
+            "placeId": "region_seattle_675606_5257",
+            "lat": 47.530677,
+            "lng": -122.292986,
+            "address": "4872 Rainier Ave S, Seattle, WA 98118",
+            "streetNumber": null,
+            "streetName": null,
+            "route": null,
+            "city": "Seattle",
+            "locality": null,
+            "sublocality": null,
+            "state": "Washington",
+            "zipCode": "98118",
+            "county": null,
+            "neighborhood": null,
+            "typeId": null,
+            "primaryType": "restaurant",
+            "typeLabel": "Restaurant",
+            "typeCategory": "Food and drink",
+            "icon": "Restaurant",
+            "color": "#FF9E67",
+            "locationCategory": null,
+            "phone": null,
+            "website": null,
+            "googleMapsUrl": null,
+            "description": null,
+            "businessStatus": "OPERATIONAL",
+            "rating": 3.6,
+            "reviewCount": 0,
+            "hasOpeningHours": true,
+            "hours": [
+                {
+                    "dayOfWeek": 0,
+                    "openTime": "07:00",
+                    "closeTime": "20:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 1,
+                    "openTime": "07:00",
+                    "closeTime": "21:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 2,
+                    "openTime": "06:00",
+                    "closeTime": "21:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 3,
+                    "openTime": "06:00",
+                    "closeTime": "20:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 4,
+                    "openTime": "06:00",
+                    "closeTime": "23:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 5,
+                    "openTime": "07:00",
+                    "closeTime": "23:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                },
+                {
+                    "dayOfWeek": 6,
+                    "openTime": "08:00",
+                    "closeTime": "19:00",
+                    "isClosed": false,
+                    "is24Hours": false
+                }
+            ],
+            "is24Hours": false,
+            "primaryImageUrl": "/images/locations/restaurant-pool-main-0.jpg",
+            "allImages": null,
+            "totalImages": 5,
+            "dineIn": false,
+            "takeaway": false,
+            "delivery": false,
+            "driveThrough": false,
+            "curbsidePickup": false,
+            "reservationsAccepted": false,
+            "onlineBookingUrl": null,
+            "createdAt": null,
+            "updatedAt": null,
+            "priceRange": null,
+            "minPrice": null,
+            "maxPrice": null,
+            "avgPrice": null,
+            "menuItemCount": 0,
+            "text": {
+                "text": "4872 Rainier Ave S, Seattle, WA 98118"
+            },
+            "structuredFormat": {
+                "mainText": {
+                    "text": "Geraldine's Counter"
+                },
+                "secondaryText": {
+                    "text": "Seattle, Washington"
+                }
+            },
+            "distanceMeters": 1958
+        }
+    ],
+    "pagination": {
+        "page": 1,
+        "limit": 20,
+        "total": 13,
+        "pages": 1
+    }
+}
